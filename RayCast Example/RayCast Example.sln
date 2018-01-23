@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RayCast Example.Plugins", "RayCast Example.Plugins.csproj", "{07D0D785-26AE-AB74-5AB2-FAD4B2038AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RayCast Example", "RayCast Example.csproj", "{1AB68B7E-CCC3-48BA-5CBE-1DBE7B2AABA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RayCast Example.Editor.Plugins", "RayCast Example.Editor.Plugins.csproj", "{9D407077-E13E-C28B-5105-A233E97907B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07D0D785-26AE-AB74-5AB2-FAD4B2038AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D0D785-26AE-AB74-5AB2-FAD4B2038AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D0D785-26AE-AB74-5AB2-FAD4B2038AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D0D785-26AE-AB74-5AB2-FAD4B2038AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB68B7E-CCC3-48BA-5CBE-1DBE7B2AABA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB68B7E-CCC3-48BA-5CBE-1DBE7B2AABA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB68B7E-CCC3-48BA-5CBE-1DBE7B2AABA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB68B7E-CCC3-48BA-5CBE-1DBE7B2AABA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D407077-E13E-C28B-5105-A233E97907B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D407077-E13E-C28B-5105-A233E97907B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D407077-E13E-C28B-5105-A233E97907B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D407077-E13E-C28B-5105-A233E97907B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
